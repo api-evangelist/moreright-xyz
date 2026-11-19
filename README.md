@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MoreRight is an open‑source, AI‑aligned virtual world platform that blends human and artificial agents in a shared MMO environment called Season Zero. The project focuses on transparent alignment research, offering free gameplay, a public ledger of experiments, and tools for measuring AI behavior. It publishes its research, game manual, and source code openly, aiming to advance safe AI development through reproducible experiments and community collaboration.
+MoreRight is an independent research project by Anthony Eckert focusing on AI alignment, open reproducible experiments, and an immersive MMO called MorrHollow that explores AI‑human interaction. The site hosts manuals, research papers, and tools for measuring AI behavior, all openly available.
 
-**Areas:** AI · Open-Source · Virtual-World · Alignment · MMO
+**Areas:** AI Alignment · Open Research · MMO · Tools · Community
 
 ## MoreRight on APIs.io
 
@@ -153,14 +153,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://moreright.xyz/)
 - [Documentation](https://moreright.xyz/manual.html)
-- [Getting started](https://moreright.xyz/manual.html)
-- [API reference](https://moreright.xyz/the-instrument.html)
-- [Support](https://moreright.xyz/lab.html)
-- [Blog](https://moreright.xyz/)
+- [API reference](https://moreright.xyz/llms.txt)
 
 ## API Evangelist rating
 
-**Kin Score 36.1** — thin · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 35.1** — thin · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
@@ -168,10 +165,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 45.6 |
 | Contract governance | 79.1 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 47.6 |
+| Developer ergonomics | 42.1 |
 | Access clarity | 0.0 |
 
-**Agent readiness 28.0** — agent-aware
+**Agent readiness 31.2** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -185,7 +182,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | flavored (partial credit) |
@@ -198,7 +195,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/moreright-xyz/](https://apis.io/providers/moreright-xyz/).
 
